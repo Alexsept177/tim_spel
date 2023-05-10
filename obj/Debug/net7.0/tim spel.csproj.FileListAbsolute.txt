@@ -1,0 +1,15 @@
+C:\Users\alexs\OneDrive\Desktop\tim_spel\bin\Debug\net7.0\tim spel.exe
+C:\Users\alexs\OneDrive\Desktop\tim_spel\bin\Debug\net7.0\tim spel.deps.json
+C:\Users\alexs\OneDrive\Desktop\tim_spel\bin\Debug\net7.0\tim spel.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\tim_spel\bin\Debug\net7.0\tim spel.dll
+C:\Users\alexs\OneDrive\Desktop\tim_spel\bin\Debug\net7.0\tim spel.pdb
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\tim spel.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\tim spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\tim spel.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\tim spel.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\tim spel.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\tim spel.dll
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\refint\tim spel.dll
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\tim spel.pdb
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\tim spel.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\tim_spel\obj\Debug\net7.0\ref\tim spel.dll
