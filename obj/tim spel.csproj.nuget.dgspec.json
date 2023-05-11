@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexs\\OneDrive\\Desktop\\tim_spel\\tim spel.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Slutprojekt\\tim_spel\\tim spel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexs\\OneDrive\\Desktop\\tim_spel\\tim spel.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Slutprojekt\\tim_spel\\tim spel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexs\\OneDrive\\Desktop\\tim_spel\\tim spel.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Slutprojekt\\tim_spel\\tim spel.csproj",
         "projectName": "tim spel",
-        "projectPath": "C:\\Users\\alexs\\OneDrive\\Desktop\\tim_spel\\tim spel.csproj",
-        "packagesPath": "C:\\Users\\alexs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexs\\OneDrive\\Desktop\\tim_spel\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Slutprojekt\\tim_spel\\tim spel.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Slutprojekt\\tim_spel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

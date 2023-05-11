@@ -1,5 +1,11 @@
-interface IDamage
-{
-    int Damage{ get; }
-    void DealDamage(string target);
-}
+// interface IDamagegrenade
+// {
+    
+//     public Usegrenade() 
+//     { 
+        
+//         int grenade = 2;
+        
+//     }
+        
+// }

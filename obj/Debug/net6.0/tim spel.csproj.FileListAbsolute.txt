@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\bin\Debug\net6.0\tim spel.exe
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\bin\Debug\net6.0\tim spel.deps.json
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\bin\Debug\net6.0\tim spel.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\bin\Debug\net6.0\tim spel.dll
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\bin\Debug\net6.0\tim spel.pdb
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\tim spel.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\tim spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\tim spel.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\tim spel.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\tim spel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\tim spel.dll
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\refint\tim spel.dll
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\tim spel.pdb
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\tim spel.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Slutprojekt\tim_spel\obj\Debug\net6.0\ref\tim spel.dll
