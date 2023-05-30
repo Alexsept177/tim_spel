@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace tim_spel
 {
-    public interface Ifight
+    public interface IDamage
     {
-        
+
+        public void DealDamage(string troll) {}
     }
 }
