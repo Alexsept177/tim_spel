@@ -8,6 +8,6 @@ namespace tim_spel
     public interface IDamage
     {
 
-        public void DealDamage(string troll) {}
+        public void DealDamage(string troll);
     }
 }
